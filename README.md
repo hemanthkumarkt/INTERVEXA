@@ -437,9 +437,9 @@ Profile photos are stored in Firebase Storage under `profileImages/{uid}`.
 
 ### Landing Page & Dashboard
 
-![Landing Page](screenshots/Landing.png)
+![Landing Page](screenshots/LandingPage.png)
 
-![Login](screenshots/Login.png)
+![Login](screenshots/LoginPage.png)
 
 ![Dashboard](screenshots/Dashboard.png)
 
@@ -447,6 +447,9 @@ Profile photos are stored in Firebase Storage under `profileImages/{uid}`.
 
 ### Resume Analyzer
 
+![Resume Analyzer 1](screenshots/resume.png)
+
+![Resume Analyzer 2](screenshots/resume1.png)
 
 ### Aptitude Round
 
