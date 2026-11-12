@@ -237,7 +237,7 @@ mockAi/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/intervexa.git
+git clone https://github.com/hemanthkumarkt/intervexa.git
 cd intervexa
 ```
 
