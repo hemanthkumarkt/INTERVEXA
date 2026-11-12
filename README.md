@@ -473,9 +473,10 @@ Profile photos are stored in Firebase Storage under `profileImages/{uid}`.
 
 ### AI Mock Interview
 
-![Interview 1](screenshots/interview1.png)
+![Interview 1](screenshots/mockinterview1.png)
 
-![Interview 2](screenshots/interview2.png)
+![Interview 2](screenshots/mockinterview2.png)
+
 ---
 
 ## ⚠️ Known Limitations
