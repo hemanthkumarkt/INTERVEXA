@@ -435,28 +435,44 @@ Profile photos are stored in Firebase Storage under `profileImages/{uid}`.
 
 ## 📸 Screenshots
 
-> Replace the placeholders below with your own screenshots saved in `docs/screenshots/`.
+### Landing Page & Dashboard
 
-| Landing Page | Login |
-|:---:|:---:|
-| ![Landing Page](docs/screenshots/landing.png) | ![Login](docs/screenshots/login.png) |
+![Landing Page](screenshots/Landing.png)
 
-| Dashboard | Resume Analyzer |
-|:---:|:---:|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Resume Analyzer](docs/screenshots/resume.png) |
+![Login](screenshots/Login.png)
 
-| Aptitude Round | Coding Round |
-|:---:|:---:|
-| ![Aptitude](docs/screenshots/aptitude.png) | ![Coding](docs/screenshots/coding.png) |
+![Dashboard](screenshots/Dashboard.png)
 
-| AI Mock Interview | Progress Tracker |
-|:---:|:---:|
-| ![Interview](docs/screenshots/interview.png) | ![Progress](docs/screenshots/progress.png) |
+![Progress Tracker](screenshots/progresspage.png)
 
-| How it Works Panel |
-|:---:|
-| ![How it Works](docs/screenshots/how-it-works.png) |
+### Resume Analyzer
 
+
+### Aptitude Round
+
+![Aptitude 1](screenshots/Aptitude1.png)
+
+![Aptitude 2](screenshots/Aptitude2.png)
+
+![Aptitude 3](screenshots/Aptitude3.png)
+
+![Aptitude 4](screenshots/Aptitude4.png)
+
+### Coding Round
+
+![Coding 1](screenshots/coding1.png)
+
+![Coding 2](screenshots/coding2.png)
+
+![Coding 3](screenshots/coding3.png)
+
+![Coding 4](screenshots/coding4.png)
+
+### AI Mock Interview
+
+![Interview 1](screenshots/interview1.png)
+
+![Interview 2](screenshots/interview2.png)
 ---
 
 ## ⚠️ Known Limitations
